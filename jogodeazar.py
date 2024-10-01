@@ -51,7 +51,7 @@ while True:
         limpar_tela()
         if valor > deposito:
             print('ERRO de saldo, tente outro valor!!!')
-
+            
         if valor <= deposito:
             soma_usuario = 0
             soma_casa = 0
